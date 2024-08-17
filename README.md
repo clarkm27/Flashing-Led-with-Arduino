@@ -1,7 +1,7 @@
 # Flashing-Led-with-Arduino
 Timed blinking LED project using an Arduino Mega 2560
 
-Items Used
+Components Used
 - 1x LED
 - 220ohm Resistor
 - Jumper Wires
